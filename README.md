@@ -1,2 +1,2 @@
-# nyt-scraper
-A Web Scraper For New York Times Articles
+# New York Times Scraper
+A Web Scraper For New York Times Articles. Using this python script you can scrape articles from any given period on NYT website. 
